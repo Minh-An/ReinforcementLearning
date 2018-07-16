@@ -4,6 +4,8 @@
 Created on Sun Jul 15 16:28:39 2018
 
 @author: minhan
+adapted by Microsoft's DAT257x course and 
+awjuliani/DeepRL-Agents repository: https://github.com/awjuliani/DeepRL-Agents/blob/master/Vanilla-Policy.ipynb
 """
 
 import tensorflow as tf
